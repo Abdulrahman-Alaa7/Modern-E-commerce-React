@@ -7,6 +7,28 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Preview
 ### [E-Commerce](https://modern-e-commerce-react.vercel.app/)
 
+### There are 21 pages :
+1- Home.
+2- Blogs.
+3- Cart.
+4- CheckOut.
+5- CompareProducts.
+6- Contact.
+7- ForgotPassword.
+8- About-us.
+9- Login.
+10- OurStore.
+11- Payment.
+12- PrivacyPolicy.
+13- ProductPage.
+14- RefundPolicy.
+15- ResetPassword.
+16- ShippingPage.
+17- ShippingPolicy.
+18- SignUp.
+19- SingleBlog.
+20- TermsService.
+21- WishList.
 
 
 ## Available Scripts
