@@ -1,6 +1,13 @@
-# Getting Started with Create React App and Redux
+# Modern E-Commerce with React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+![Events App](./src/images/e-commerce.png)
+
+## Preview
+### [Events App](https://events-app-next.vercel.app/)
+
+
 
 ## Available Scripts
 
