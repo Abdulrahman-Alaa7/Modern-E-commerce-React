@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Events App](./src/images/e-commerce.png)
 
 ## Preview
-### [Events App](https://events-app-next.vercel.app/)
+### [E-Commerce](https://modern-e-commerce-react.vercel.app/)
 
 
 
